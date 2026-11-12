@@ -4,6 +4,12 @@ WorkTrack is a web-based leave and attendance management system designed to help
 
 The application provides role-based experiences for **Employees**, **Managers**, and **HR Administrators**. Attendance check-in and check-out are protected by GPS geofencing, while leave requests follow a two-stage approval process.
 
+## System Architecture
+
+The following diagram illustrates the WorkTrack architecture, including the frontend, backend, database, authentication, GPS geofencing, and leave approval workflow.
+
+![WorkTrack System Architecture](docs/architecture.png)
+
 ## Application screenshots
 
 ### HR dashboard
