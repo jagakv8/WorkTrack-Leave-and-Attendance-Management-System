@@ -1,4 +1,4 @@
-# 🏢 Leave and Attendance Management System
+# 🏢 Leave and Attendance Management System(WeWork)
 
 A web-based Human Resource Management System (HRMS) designed to manage employee attendance, leave requests, approval workflows, and HR reporting for companies with 51–200 employees.
 
@@ -131,8 +131,7 @@ The features in this README describe the intended functionality. They are not cl
 
 ## 👨‍💻 Author
 
-Developed as a company HR management project using modern web technologies.
-
+Jagadeesh K V
 ---
 
 *The goal is to simplify HR operations, improve attendance recordkeeping, and provide a secure, maintainable system for company workforce management.*
